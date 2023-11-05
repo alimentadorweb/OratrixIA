@@ -14,11 +14,7 @@ Si necesitas Ayuda Scribeme un twitter (X =D) @alimentadorweb
 
 PASOS PARA REPLICAR ORATRIX IA
 
-1. Descarga la Imagen de Virtual Box, esta en la Carpeta VMbox, solo funciona en 64bits
-2. Configura el tu Virtual manchine como Debian 10 con 2 procesadores y 4gb de ram o mas
-3. Escribe de usuario: root y Contraseña Oratrixia01.
-4. Carga el Entorno virtual escribiendo: source /oratrix-env/bin/activate
-5. ahora inicia ORATRIXIA (rasa) escribiendo: rasa init
+1. Siga los pasos descritos en el archivo VMBOX/descargarOratrixia.txt
 
 NOTA: para configurar son todos los pasos de RASA puedes usar los ejemplos completamente en español que estan en la carpeta Example.
 
