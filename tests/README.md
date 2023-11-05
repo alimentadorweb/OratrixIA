@@ -1,3 +1,9 @@
+#languaje
+Oratrix is a fork of RASA for spanish
+
+#lenguaje
+Oratrix es un Fork de RASA en Español
+
 # Tests
 This directory contains all tests for the projects.
 Tests are organized into several groups:
