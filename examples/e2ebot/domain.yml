@@ -13,11 +13,11 @@ intents:
 
 responses:
   utter_greet:
-  - text: "hi!"
+  - text: "hola!"
   utter_suggest_cuisine:
-  - text: "how about greek food?"
-  - text: "how about chinese food?"
-  - text: "how about italian food?"
-  - text: "how about sushi?"
+  - text: "¿Te gusta la comida Griega?"
+  - text: "¿Te gusta la comida China?"
+  - text: "¿Te gusta la comida Salvadoreña?"
+  - text: "¿te gusta el Suchi?"
   utter_search_restaurants:
-  - text: "great! here's what I found ..."
+  - text: "¡Bien! esto es lo que encontré ..."

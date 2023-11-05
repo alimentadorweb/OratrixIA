@@ -35,19 +35,19 @@ slots:
 
 responses:
   utter_greet:
-    - text: "Hey there!"
+    - text: "Hey, alguien aqui!"
   utter_goodbye:
-    - text: "Goodbye :("
+    - text: "Hasta pronto :("
   utter_default:
-    - text: "Sorry, I didn't get that, can you rephrase?"
+    - text: "Lo siento, no entendí eso, ¿puedes reformularlo?"
   utter_youarewelcome:
-    - text: "You're very welcome."
+    - text: "Usted es Bienvenido"
   utter_iamabot:
-    - text: "I am a bot, powered by Rasa."
+    - text: "No soy un humano, soy un bot."
   utter_get_started:
-    - text: "I can help you find concerts and venues. Do you like music?"
+    - text: "Puedo ayudarte a encontrar conciertos y lugares. ¿Te gusta la música?"
   utter_awesome:
-    - text: "Awesome! You can ask me things like \"Find me some concerts\" or \"What's a good venue\""
+    - text: "¡Genial! Puedes preguntarme cosas como "Búscame algunos conciertos" o "¿Cuál es un buen lugar?"
 
 actions:
   - action_search_concerts
