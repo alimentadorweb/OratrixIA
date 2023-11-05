@@ -1,0 +1,7 @@
+PASOS PARA ACTIVAR E INSTALAR ORATRIX IA EN VIRTUAL BOX
+
+1. Descargar virtualizador:  https://www.virtualbox.org/wiki/Downloads
+2. Descargar maquina virtualizada de debian: https://sourceforge.net/projects/osboxes/files/v/vb/14-D-b/11/Server/64bit.7z/download
+3. Abrir Virtualbox y configurar nueva maquina virtual con debian y el disco duro que acaban de descargar.
+4. configurar maquina virtual con 2 procesadores y 4gb de Ram como minimo
+5. Usuario: root Contraseña: Oratrix.ia
