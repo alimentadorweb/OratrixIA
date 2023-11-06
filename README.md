@@ -5,7 +5,7 @@ Soy un Fork de RASA https://rasa.com, pero en español.
 
 pondremos un virtual box para desarrollo completamente listo para usar con debian 10 y OratrixIA solo de configurar y operar. 
 
-inicie el 2 de noviembre del 2023
+Fecha inicio de proyecto:  2 de noviembre del 2023
 
 Si necesitas Ayuda Scribeme un twitter (X =D) @alimentadorweb
 </div>
